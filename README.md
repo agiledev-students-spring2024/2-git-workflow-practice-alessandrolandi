@@ -7,3 +7,6 @@ I really enjoyed reading this article. The author tries to answer the question o
 ## Alex Hmitti's comments
 
 Really interesting article, thanks for sharing. I agree with many of the points made by the author and how changing priorities and monetization strategies impact software quality and user experience. However I think there is hope. Aside from the new wave of technology "like WebAssembly, ESBuild, SWC, Bun, and Yew) [that enable] new levels of speed and reliability", there are AI assistants and other tools that will enhance software development processes.
+
+## Thoughts from Haolin Zhong
+Thanks for sharing this meaningful article. I was really concerning about the future of the sde and this aircle really relieved me a lot. 
